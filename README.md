@@ -11,8 +11,6 @@ React를 활용하여 식물 관련 정보를 자유롭게 공유하고 소통�
 ## 🛠 사용 기술
 
 - **Frontend**: React, React Router, React-Quill, Axios
-- **기능 라이브러리**: React-Quill (에디터), Pagination, 권한 처리 등
-- **기타**: Git, Figma, ESLint 등
 
 ## ⚙️ 주요 기능
 
@@ -29,10 +27,3 @@ React를 활용하여 식물 관련 정보를 자유롭게 공유하고 소통�
 - 게시글 리스트에 **페이지네이션 로직** 적용 및 UI 구성
 - 사용자 경험을 고려한 컴포넌트 구조화 및 코드 리팩토링
 
-## 📷 화면 예시 (선택)
-
-> 페이지별 화면 캡처 이미지 또는 시연 GIF 삽입 위치
-
----
-
-📚 더 다양한 React 프로젝트와 코드 예시는 [gptonline.ai/ko](https://gptonline.ai/ko/)에서 확인하실 수 있습니다!
