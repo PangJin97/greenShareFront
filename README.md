@@ -1,12 +1,38 @@
-# React + Vite
+# 🌿 React 기반 식물 커뮤니티 웹사이트 개발
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **기간**: 2025.04.08 ~ 2025.04.21  
+- **유형**: 팀 프로젝트 (Team Project)
 
-Currently, two official plugins are available:
+## 📌 프로젝트 개요
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React를 활용하여 식물 관련 정보를 자유롭게 공유하고 소통할 수 있는 커뮤니티 웹사이트를 구축했습니다.  
+게시글 CRUD, 에디터 적용, 좋아요, 팔로우, 페이지네이션 등 다양한 **사용자 상호작용 중심의 기능**을 구현하였습니다.
 
-## Expanding the ESLint configuration
+## 🛠 사용 기술
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React, React Router, React-Quill, Axios
+- **기능 라이브러리**: React-Quill (에디터), Pagination, 권한 처리 등
+- **기타**: Git, Figma, ESLint 등
+
+## ⚙️ 주요 기능
+
+- 커뮤니티 게시판 **CRUD 구현 및 권한 처리**
+- **React-Quill 에디터**를 활용한 게시글 작성 및 수정
+- **좋아요 및 팔로우 기능**으로 사용자 간 상호작용 구현
+- 게시글 목록에 **페이지네이션** 적용
+- 사용자 권한에 따라 접근 제어 및 UI 렌더링 분기
+
+## 👨‍💻 담당 업무
+
+- **식물 이야기 커뮤니티 기능의 전체 CRUD 구현 및 권한 처리**
+- **React-Quill 에디터**를 적용하여 게시글 등록 및 수정 기능 개발
+- 게시글 리스트에 **페이지네이션 로직** 적용 및 UI 구성
+- 사용자 경험을 고려한 컴포넌트 구조화 및 코드 리팩토링
+
+## 📷 화면 예시 (선택)
+
+> 페이지별 화면 캡처 이미지 또는 시연 GIF 삽입 위치
+
+---
+
+📚 더 다양한 React 프로젝트와 코드 예시는 [gptonline.ai/ko](https://gptonline.ai/ko/)에서 확인하실 수 있습니다!
